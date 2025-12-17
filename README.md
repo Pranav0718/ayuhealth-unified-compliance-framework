@@ -98,8 +98,8 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## Contact
 
-For questions or collaboration opportunities, please contact: [Your Name] | [Email] | [LinkedIn]
+For questions or collaboration opportunities, please contact: [Pranav Walgude] | [pranavwalgude0718@gail.com] | [https://www.linkedin.com/in/pranav-walgude-cc-75ba761ba/]
 
 ---
 
-**Last Updated**: December 2025 | **Project Status**: Complete (Ready for Portfolio & Interviews)
+**Last Updated**: December 2025 | **Project Status**: Complete 
